@@ -70,7 +70,7 @@ if _name_ == '_main_':
 ![robo](./img/2.png)
 ## MobileRobot Movement Video:
 
-![Watch the video here: https://drive.google.com/drive/folders/1qJIcFvlsUuvH5xAjXOk3BN4yV8i7sDIL?usp=sharing](https://drive.google.com/drive/folders/1qJIcFvlsUuvH5xAjXOk3BN4yV8i7sDIL?usp=sharing)
+![Watch the video here:](https://drive.google.com/drive/folders/1qJIcFvlsUuvH5xAjXOk3BN4yV8i7sDIL?usp=sharing)
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
